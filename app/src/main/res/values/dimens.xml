@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Set values of ListView for showing messages -->
+    <dimen name="listMsg_ListView_dividerHeight">20px</dimen>
+    <!-- Set values of ImageButton for showing images -->
+    <dimen name="showimg_ImageButton_size">50dp</dimen>
+    <dimen name="showimg_ImageButton_marginLeft">0dp</dimen>
+    <!-- Set values of EdiTtext for sending message -->
+    <dimen name="sendMsg_EditText_width">230dp</dimen>
+    <dimen name="sendMsg_EditText_height">50dp</dimen>
+    <dimen name="sendMsg_EditText_marginLeft">60dp</dimen>
+    <dimen name="sendMsg_EditText_textSize">18dp</dimen>
+    <!-- Set values of Button for sending message -->
+    <dimen name="sendMsg_Button_textSize">18dp</dimen>
+    <dimen name="sendMsg_Button_height">50dp</dimen>
+    <!-- Set values of ImageView attribute for portrait -->
+    <dimen name="portrait_ImageView_width">60px</dimen>
+    <dimen name="portrait_ImageView_height">60px</dimen>
+    <dimen name="portrait_ImageView_marginLeft">10px</dimen>
+    <dimen name="portrait_ImageView_marginRight">10px</dimen>
+    <!-- Set values of LinearLayout attribute for MsgBox -->
+    <dimen name="MsgBox_LinearLayout_width">249px</dimen>
+    <dimen name="MsgBox_LinearLayout_height">22dp</dimen>
+    <dimen name="MsgBoxname_TextView_paddingTop">2px</dimen>
+    <dimen name="MsgBoxname_TextView_textSize">16dp</dimen>
+    <dimen name="MsgBoxdate_TextView_marginLeft">60dp</dimen>
+    <dimen name="MsgBoxdate_TextView_paddingTop">2px</dimen>
+    <dimen name="MsgBoxdate_TextView_textSize">16dp</dimen>
+    <dimen name="MsgBoxtext_TextView_paddingLeft">2px</dimen>
+    <dimen name="MsgBoxtext_TextView_textSize">16dp</dimen>
+
+</resources>

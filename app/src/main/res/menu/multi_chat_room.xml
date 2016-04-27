@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/startService"
+        android:title="@string/startService">
+    </item>
+    <item
+        android:id="@+id/secure_connect_scan"
+        android:title="发送文件" />
+        <!--android:icon="@drawable/file"-->
+
+
+    <item
+        android:id="@+id/insecure_connect_scan"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/insecure_connect"/>
+
+    <item
+        android:id="@+id/discoverable"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="@string/discoverable"/>
+</menu>
